@@ -26,7 +26,7 @@ Thank you for your interest in contributing to **AI Read All Books**!
 
 AI Read All Books is an open educational project dedicated to organizing and developing comprehensive learning resources across a wide range of academic disciplines. Contributions from readers, researchers, students, and developers are welcome.
 
-## 1. Reporting Errors and Suggesting Improvements
+1. Reporting Errors and Suggesting Improvements
 
 If you discover an error, outdated information, or an area that could be improved, please open an issue on GitHub.
 
@@ -40,7 +40,7 @@ When submitting an issue, try to include:
 
 For historical dates, scientific claims, linguistic relationships, translations, and other specialized information, please provide sources whenever possible.
 
-## 2. Contributing Content
+2. Contributing Content
 
 You are welcome to improve existing chapters or contribute new educational materials.
 
@@ -54,7 +54,7 @@ When editing or creating Markdown files, please follow these guidelines:
 - Maintain academic accuracy and distinguish established findings from hypotheses and ongoing debates.
 - Update the relevant table of contents when adding new chapters.
 
-## 3. Academic Standards and References
+3. Academic Standards and References
 
 The project aims to provide reliable, detailed, and academically informed educational resources.
 
@@ -66,7 +66,7 @@ Contributors should:
 - Avoid presenting speculation as established fact.
 - Preserve original-language examples and provide appropriate translations when relevant.
 
-## 4. Copyright and Licensing
+4. Copyright and Licensing
 
 Only submit materials that you have the right to contribute and distribute.
 
